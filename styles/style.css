@@ -142,8 +142,8 @@ row-gap: 20px; /*?????? из-за этого возможно есть сдви�
   align-items: center;
   justify-content: center;
   margin-inline-start: 15px;
-  margin-block-start: 3px;
-  position: relative;
+  margin-block-start: 3px; 
+  position: relative; 
   left: 6px;
   bottom: 4px;
 }
