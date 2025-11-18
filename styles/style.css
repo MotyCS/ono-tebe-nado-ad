@@ -129,7 +129,7 @@ row-gap: 20px; /*?????? из-за этого возможно есть сдви�
 }
 
 
-.button{
+.button {
     inline-size: 256px;
     block-size: 51px;
     border: 1px solid white;
